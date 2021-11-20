@@ -3,6 +3,10 @@
 
 Telegram RoBot to Upload Links.
 
+- name: Deploy to Heroku
+  uses: AkhileshNS/heroku-deploy@v3.12.12
+
+
 **Features**:
 
 👉 Only Auth Users (AUTH_USERS) Can Use The Bot
