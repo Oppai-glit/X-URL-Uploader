@@ -1,2 +1,4 @@
 # github: SpEcHiDe
 custom: https://donate.shrimadhavuk.me/
+- name: Deploy to Heroku
+  uses: AkhileshNS/heroku-deploy@v3.12.12
